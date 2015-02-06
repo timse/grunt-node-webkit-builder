@@ -10,13 +10,6 @@
   "scripts" : {
     "test": "echo 'Tests exist in node-webkit-builder project; http://github.com/mllrsohn/node-webkit-builder'"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:mllrsohn/grunt-node-webkit-builder.git"
-  },
-  "bugs": {
-    "url": "https://github.com/mllrsohn/grunt-node-webkit-builder/issues"
-  },
   "licenses": "MIT",
   "main": "Gruntfile.js",
   "engines": {
